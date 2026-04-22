@@ -1,5 +1,824 @@
 [
     {
+        "title": "001 Rain Zone - Maiyarap, Z9",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/001%20Rain%20Zone%20-%20Maiyarap%2C%20Z9.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "f7e3a4c77e781754b5cba4e5b4da1117",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\001 Rain Zone - Maiyarap, Z9.mp3"
+    },
+    {
+        "title": "002 จากฉันถึงเธอ - Cocktail, พงษ์สิทธิ์ คำภีร์",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/002%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%20-%20Cocktail%2C%20%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%20%E0%B8%84%E0%B8%B3%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "6be6873c884a4991bc3101cd86d741d9",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\002 จากฉันถึงเธอ - Cocktail, พงษ์สิทธิ์ คำภีร์.mp3"
+    },
+    {
+        "title": "003 นอกจากชื่อฉัน - ACTART",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/003%20%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%89%E0%B8%B1%E0%B8%99%20-%20ACTART.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "039804c1e8627f3bc1b821e968d5f98a",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\003 นอกจากชื่อฉัน - ACTART.mp3"
+    },
+    {
+        "title": "004 ดอกกระเจียวบาน - ก้อง ห้วยไร่",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/004%20%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B2%E0%B8%99%20-%20%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%20%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%A3%E0%B9%88.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b48622cd78e8022b3f99b94a5cf23c5f",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\004 ดอกกระเจียวบาน - ก้อง ห้วยไร่.mp3"
+    },
+    {
+        "title": "005 ถ้าถามว่ารักมันคืออะไร - New Day Project",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/005%20%E0%B8%96%E0%B9%89%E0%B8%B2%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%20-%20New%20Day%20Project.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "d39074452e121be00ed43c1fb4ff74ea",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\005 ถ้าถามว่ารักมันคืออะไร - New Day Project.mp3"
+    },
+    {
+        "title": "006 วันที่อ่อนแอ (Acoustic) - NJoinPlay",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/006%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%AD%20%28Acoustic%29%20-%20NJoinPlay.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "9410dd7af98b063d9d608819a68f33e8",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\006 วันที่อ่อนแอ (Acoustic) - NJoinPlay.mp3"
+    },
+    {
+        "title": "008 ไม่รู้จักฉัน ไม่รู้จักเธอ - ดา เอ็นโดรฟิน, ป๊อบ ปองกูล",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/008%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%89%E0%B8%B1%E0%B8%99%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%20-%20%E0%B8%94%E0%B8%B2%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99%2C%20%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9A%20%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B9%E0%B8%A5.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b480ebb8e62147a4b47c73551ed1acd8",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\008 ไม่รู้จักฉัน ไม่รู้จักเธอ - ดา เอ็นโดรฟิน, ป๊อบ ปองกูล.mp3"
+    },
+    {
+        "title": "009 ทำไมต้องเป็นเธอ - MrSad17",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/009%20%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%20-%20MrSad17.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "0829c9e6155573861ead0a9028c47640",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\009 ทำไมต้องเป็นเธอ - MrSad17.mp3"
+    },
+    {
+        "title": "010 ใจฉันตามเธอไป - YOUNGOHM",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/010%20%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%9B%20-%20YOUNGOHM.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "533572447629ec6aa785640e66a5a8cb",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\010 ใจฉันตามเธอไป - YOUNGOHM.mp3"
+    },
+    {
+        "title": "011 Good Goodbye - Hwa Sa",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/011%20Good%20Goodbye%20-%20Hwa%20Sa.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "6aa81109071337d062d763fe4739b2a7",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\011 Good Goodbye - Hwa Sa.mp3"
+    },
+    {
+        "title": "012 싹 (Feat. 로꼬) (Prod. By GRAY) - Oxynova, MASON HOME, MILLI, Foggyatthebottom, OSun, Loco",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/012%20%EC%8B%B9%20%28Feat.%20%EB%A1%9C%EA%BC%AC%29%20%28Prod.%20By%20GRAY%29%20-%20Oxynova%2C%20MASON%20HOME%2C%20MILLI%2C%20Foggyatthebottom%2C%20OSun%2C%20Loco.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "1a1275ad0bbbe078cf1b6f96b3a2bddd",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\012 싹 (Feat. 로꼬) (Prod. By GRAY) - Oxynova, MASON HOME, MILLI, Foggyatthebottom, OSun, Loco.mp3"
+    },
+    {
+        "title": "013 จากนี้จะไม่ปล่อยมือ (With You Always) (OST. เขมจิราต้องรอด) - TLE MATIMUN, FirstOne",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/013%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%A1%E0%B8%B7%E0%B8%AD%20%28With%20You%20Always%29%20%28OST.%20%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94%29%20-%20TLE%20MATIMUN%2C%20FirstOne.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "23ee7562cbd2904d3e0f91e33c887408",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\013 จากนี้จะไม่ปล่อยมือ (With You Always) (OST. เขมจิราต้องรอด) - TLE MATIMUN, FirstOne.mp3"
+    },
+    {
+        "title": "014 ไม่รู้จะโทรหาใคร - Yes'sir Days",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/014%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%AB%E0%B8%B2%E0%B9%83%E0%B8%84%E0%B8%A3%20-%20Yes%27sir%20Days.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "81fc86cf79c7d5565a07639d91572472",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\014 ไม่รู้จะโทรหาใคร - Yes'sir Days.mp3"
+    },
+    {
+        "title": "015 เส้นบางๆ - Indigo",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/015%20%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%86%20-%20Indigo.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "0b663c167ccdbebd10fe06e3d0c683a9",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\015 เส้นบางๆ - Indigo.mp3"
+    },
+    {
+        "title": "016 ฝากให้เขารัก - Yes'sir Days",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/016%20%E0%B8%9D%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%20-%20Yes%27sir%20Days.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b29f3ca093778ff0e68ab4e65f56311b",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\016 ฝากให้เขารัก - Yes'sir Days.mp3"
+    },
+    {
+        "title": "017 แก้บน - ก้านตอง ทุ่งเงิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/017%20%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%9A%E0%B8%99%20-%20%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%87%20%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "404a544eb319bf409db6ab0b57e56637",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\017 แก้บน - ก้านตอง ทุ่งเงิน.mp3"
+    },
+    {
+        "title": "018 ไปเจ็บกับเค้าซะให้พอ - URBOYTJ, Gavin D",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/018%20%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B0%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9E%E0%B8%AD%20-%20URBOYTJ%2C%20Gavin%20D.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "4edb05f1b70faf9261f4231104d201f1",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\018 ไปเจ็บกับเค้าซะให้พอ - URBOYTJ, Gavin D.mp3"
+    },
+    {
+        "title": "019 Daydream - WENDY (Red Velvet)",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/019%20Daydream%20-%20WENDY%20%28Red%20Velvet%29.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "34b7b521b552e27ce34d48da1fefa13a",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\019 Daydream - WENDY (Red Velvet).mp3"
+    },
+    {
+        "title": "021 เหลือใจให้ฉันบ้างไหม - MUNMUSIC",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/021%20%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1%20-%20MUNMUSIC.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "8fe64e042e29119f1db5ee660011124a",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\021 เหลือใจให้ฉันบ้างไหม - MUNMUSIC.mp3"
+    },
+    {
+        "title": "022 เพราะยังเป็นเธอเสมอ - NJoinPlay",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/022%20%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%AD%20-%20NJoinPlay.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "7fe56dce881b40f2b1fcd2c4472b58af",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\022 เพราะยังเป็นเธอเสมอ - NJoinPlay.mp3"
+    },
+    {
+        "title": "023 สายลมเจ็บปวด - Hmong Sad Song",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/023%20%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B8%9B%E0%B8%A7%E0%B8%94%20-%20Hmong%20Sad%20Song.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "3e6d2a46d62a940ac95a31b612c48d05",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\023 สายลมเจ็บปวด - Hmong Sad Song.mp3"
+    },
+    {
+        "title": "024 SUPA DUPA LUV - BABYMONSTER",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/024%20SUPA%20DUPA%20LUV%20-%20BABYMONSTER.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "6711a63b09102c97b4dbbbac19072741",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\024 SUPA DUPA LUV - BABYMONSTER.mp3"
+    },
+    {
+        "title": "025 ดึงดัน - Cocktail, ตั๊ก ศิริพร",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/025%20%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%99%20-%20Cocktail%2C%20%E0%B8%95%E0%B8%B1%E0%B9%8A%E0%B8%81%20%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b2ae763b9a79c7b36fe970fe8fa19c66",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\025 ดึงดัน - Cocktail, ตั๊ก ศิริพร.mp3"
+    },
+    {
+        "title": "026 สลักจิต - ป๊อบ ปองกูล, ดา เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/026%20%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B4%E0%B8%95%20-%20%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9A%20%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B9%E0%B8%A5%2C%20%E0%B8%94%E0%B8%B2%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "2d077aea01fdde982bb577321479cbaa",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\026 สลักจิต - ป๊อบ ปองกูล, ดา เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "027 ใจน้อย - AB Normal",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/027%20%E0%B9%83%E0%B8%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20-%20AB%20Normal.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "3b4e073f2500969484976310eb154558",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\027 ใจน้อย - AB Normal.mp3"
+    },
+    {
+        "title": "028 ไม่เดียงสา - Big Ass",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/028%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B2%20-%20Big%20Ass.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "2f02b3f7ca584fe1d22ee04554399710",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\028 ไม่เดียงสา - Big Ass.mp3"
+    },
+    {
+        "title": "029 ครึ่งหนึ่งของชีวิต - แอม เสาวลักษณ์",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/029%20%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%20-%20%E0%B9%81%E0%B8%AD%E0%B8%A1%20%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "1bf714f273cea47b91ba057002b15a45",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\029 ครึ่งหนึ่งของชีวิต - แอม เสาวลักษณ์.mp3"
+    },
+    {
+        "title": "030 พูดในใจ - Bodyslam",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/030%20%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B9%83%E0%B8%99%E0%B9%83%E0%B8%88%20-%20Bodyslam.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "6a56601e37e407d214aa5c5cd0f53aa9",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\030 พูดในใจ - Bodyslam.mp3"
+    },
+    {
+        "title": "031 กอด - NOS",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/031%20%E0%B8%81%E0%B8%AD%E0%B8%94%20-%20NOS.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "448c485330510cffff2417ab6687cfbe",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\031 กอด - NOS.mp3"
+    },
+    {
+        "title": "032 หนึ่งคนตรงนี้ (I'm here) - PURPEECH",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/032%20%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%20%28I%27m%20here%29%20-%20PURPEECH.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "5e9f011f85cbc8e148629bf9b0c406ad",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\032 หนึ่งคนตรงนี้ (I'm here) - PURPEECH.mp3"
+    },
+    {
+        "title": "033 เจ็บแค่ไหนก็ยังรักอยู่ feat. ฟิล์ม บงกช (OST. อย่าลืมฉัน) - Yes'sir Days, ฟิล์ม บงกช",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/033%20%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%81%E0%B9%87%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%20feat.%20%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B9%8C%E0%B8%A1%20%E0%B8%9A%E0%B8%87%E0%B8%81%E0%B8%8A%20%28OST.%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B8%B7%E0%B8%A1%E0%B8%89%E0%B8%B1%E0%B8%99%29%20-%20Yes%27sir%20Days%2C%20%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B9%8C%E0%B8%A1%20%E0%B8%9A%E0%B8%87%E0%B8%81%E0%B8%8A.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "6ab084ac4aaf1753842709ffec8f6987",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\033 เจ็บแค่ไหนก็ยังรักอยู่ feat. ฟิล์ม บงกช (OST. อย่าลืมฉัน) - Yes'sir Days, ฟิล์ม บงกช.mp3"
+    },
+    {
+        "title": "034 อุษาสาง (Explicit) - เจนจิรา เฉียงเอก",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/034%20%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%87%20%28Explicit%29%20-%20%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%20%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%81.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "5e9ba26f680e0970738cc41ce7bb635f",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\034 อุษาสาง (Explicit) - เจนจิรา เฉียงเอก.mp3"
+    },
+    {
+        "title": "035 เหนื่อยเกินไป - Little John",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/035%20%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%9B%20-%20Little%20John.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "317e1e941cc0fdc45da5bf6ee660e0c7",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\035 เหนื่อยเกินไป - Little John.mp3"
+    },
+    {
+        "title": "036 กุหลาบ - F.HERO, ก้านตอง ทุ่งเงิน, SARAN",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/036%20%E0%B8%81%E0%B8%B8%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%9A%20-%20F.HERO%2C%20%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%87%20%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%2C%20SARAN.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "f499cffb731c69e3a80fc8ce3135a61c",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\036 กุหลาบ - F.HERO, ก้านตอง ทุ่งเงิน, SARAN.mp3"
+    },
+    {
+        "title": "037 เรื่องธรรมดา - Cocktail",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/037%20%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2%20-%20Cocktail.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "17c258b9b616b77bd4bc37f04860390a",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\037 เรื่องธรรมดา - Cocktail.mp3"
+    },
+    {
+        "title": "038 ให้ธรรมชาติฮีลใจ - FINFIN MUSIC",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/038%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%AE%E0%B8%B5%E0%B8%A5%E0%B9%83%E0%B8%88%20-%20FINFIN%20MUSIC.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "29c1b8bd13baa95f83d72139cbdd9151",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\038 ให้ธรรมชาติฮีลใจ - FINFIN MUSIC.mp3"
+    },
+    {
+        "title": "039 บุญผลาหมดอายุ - มนต์แคน แก่นคูน, เวียง นฤมล",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/039%20%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%20-%20%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%84%E0%B8%99%20%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%B9%E0%B8%99%2C%20%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%20%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "149ff00c45bc1a3bc3e200278b82a421",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\039 บุญผลาหมดอายุ - มนต์แคน แก่นคูน, เวียง นฤมล.mp3"
+    },
+    {
+        "title": "040 เจ็บไปรักไป - Yes'sir Days",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/040%20%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%9B%20-%20Yes%27sir%20Days.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "5874a151396229e08af8a00e2c5233c7",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\040 เจ็บไปรักไป - Yes'sir Days.mp3"
+    },
+    {
+        "title": "041 น้ำเต็มแก้ว - เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/041%20%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%20-%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "2fe2275d537a05bf07bc06447ec29c81",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\041 น้ำเต็มแก้ว - เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "042 พัง - Indigo",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/042%20%E0%B8%9E%E0%B8%B1%E0%B8%87%20-%20Indigo.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "4cbb3b5efb34a704938fc3dd66b39e2c",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\042 พัง - Indigo.mp3"
+    },
+    {
+        "title": "043 Yours Ever - Cocktail, คิว ฟลัว",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/043%20Yours%20Ever%20-%20Cocktail%2C%20%E0%B8%84%E0%B8%B4%E0%B8%A7%20%E0%B8%9F%E0%B8%A5%E0%B8%B1%E0%B8%A7.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "1f12281971312b4a0a109dd17e838b75",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\043 Yours Ever - Cocktail, คิว ฟลัว.mp3"
+    },
+    {
+        "title": "046 บ่อิน - ก้อง ห้วยไร่",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/046%20%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%B4%E0%B8%99%20-%20%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%20%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%A3%E0%B9%88.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b635b9b6ee09bcfb9942c432cc89a0f2",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\046 บ่อิน - ก้อง ห้วยไร่.mp3"
+    },
+    {
+        "title": "047 ฉันมันก็ดีได้แค่นี้ - MrSad17",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/047%20%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B9%87%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%99%E0%B8%B5%E0%B9%89%20-%20MrSad17.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "8c9254435bae06abef2a826e4f50f373",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\047 ฉันมันก็ดีได้แค่นี้ - MrSad17.mp3"
+    },
+    {
+        "title": "048 ทำไมไม่คิดดีดี - เอส.ดี.เอฟ",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/048%20%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B5%E0%B8%94%E0%B8%B5%20-%20%E0%B9%80%E0%B8%AD%E0%B8%AA.%E0%B8%94%E0%B8%B5.%E0%B9%80%E0%B8%AD%E0%B8%9F.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "a63f0a082e08282505e67c6dfda0154c",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\048 ทำไมไม่คิดดีดี - เอส.ดี.เอฟ.mp3"
+    },
+    {
+        "title": "049 คนทางนั้น - Gift My Project",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/049%20%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%20-%20Gift%20My%20Project.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c480651d17d7e37a1bb279c3ee8409e4",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\049 คนทางนั้น - Gift My Project.mp3"
+    },
+    {
+        "title": "050 ภาพลวงตา - ดา เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/050%20%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%95%E0%B8%B2%20-%20%E0%B8%94%E0%B8%B2%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c977b333d1815dbe4edbed7fe8806430",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\050 ภาพลวงตา - ดา เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "051 ขวัญเอยขวัญมา - genie Season",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/051%20%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%A1%E0%B8%B2%20-%20genie%20Season.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b5d60073235e8e4926eee90d91938857",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\051 ขวัญเอยขวัญมา - genie Season.mp3"
+    },
+    {
+        "title": "052 ทำอะไรสักอย่าง - ป้าง นครินทร์ กิ่งศักดิ์",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/052%20%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%20-%20%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%87%20%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%20%E0%B8%81%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "64fc653469441bc66cedb9320482a569",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\052 ทำอะไรสักอย่าง - ป้าง นครินทร์ กิ่งศักดิ์.mp3"
+    },
+    {
+        "title": "054 ดอกไม้กับหัวใจ - ไอ-แซ็ก",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/054%20%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%20-%20%E0%B9%84%E0%B8%AD-%E0%B9%81%E0%B8%8B%E0%B9%87%E0%B8%81.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "cd96561dfe1753952df0e6ee1b0d2421",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\054 ดอกไม้กับหัวใจ - ไอ-แซ็ก.mp3"
+    },
+    {
+        "title": "055 ไม่เคย - 25 Hours",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/055%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%84%E0%B8%A2%20-%2025%20Hours.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "1d22faf80976496f5d98069b6a209a1e",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\055 ไม่เคย - 25 Hours.mp3"
+    },
+    {
+        "title": "056 จากนี้ไปจนนิรันดร์ - เอ๊ะ จิรากร",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/056%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%84%E0%B8%9B%E0%B8%88%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B9%8C%20-%20%E0%B9%80%E0%B8%AD%E0%B9%8A%E0%B8%B0%20%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "add1bd444aab767f8d2c98a854b00456",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\056 จากนี้ไปจนนิรันดร์ - เอ๊ะ จิรากร.mp3"
+    },
+    {
+        "title": "057 ภูมิแพ้กรุงเทพ (Feat. ตั๊กแตน ชลดา) - ป้าง นครินทร์ กิ่งศักดิ์, ตั๊กแตน ชลดา",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/057%20%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%20%28Feat.%20%E0%B8%95%E0%B8%B1%E0%B9%8A%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%99%20%E0%B8%8A%E0%B8%A5%E0%B8%94%E0%B8%B2%29%20-%20%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%87%20%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%20%E0%B8%81%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%2C%20%E0%B8%95%E0%B8%B1%E0%B9%8A%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%99%20%E0%B8%8A%E0%B8%A5%E0%B8%94%E0%B8%B2.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b7fba53d9613ab035a183fc614f9bb18",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\057 ภูมิแพ้กรุงเทพ (Feat. ตั๊กแตน ชลดา) - ป้าง นครินทร์ กิ่งศักดิ์, ตั๊กแตน ชลดา.mp3"
+    },
+    {
+        "title": "058 สุขอย่าไปเล่าเศร้าอย่าไปพูด - เพชร พฤษภา",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/058%20%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B8%9E%E0%B8%B9%E0%B8%94%20-%20%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%20%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "efa63faff19c44e20e880cd8c468c717",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\058 สุขอย่าไปเล่าเศร้าอย่าไปพูด - เพชร พฤษภา.mp3"
+    },
+    {
+        "title": "059 น้ำลาย - Silly Fools",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/059%20%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B2%E0%B8%A2%20-%20Silly%20Fools.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c79c4820bfd073e599e42a3fa7c72339",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\059 น้ำลาย - Silly Fools.mp3"
+    },
+    {
+        "title": "060 คนไม่จำเป็น - getsunova",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/060%20%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%20-%20getsunova.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "090f3c32878dfcbb9c6e29295be145f0",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\060 คนไม่จำเป็น - getsunova.mp3"
+    },
+    {
+        "title": "061 รักครั้งใหม่ - ดา เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/061%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%20-%20%E0%B8%94%E0%B8%B2%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "0fd0785e4cfda9c95c28ac04d1780552",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\061 รักครั้งใหม่ - ดา เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "062 เชือกวิเศษ - Labanoon",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/062%20%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%20-%20Labanoon.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "8473266d84569bbc76c3d25a6edea523",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\062 เชือกวิเศษ - Labanoon.mp3"
+    },
+    {
+        "title": "063 สิ่งสำคัญ - เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/063%20%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%20-%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "8f870b7d5ac37e0f2818a71a684b92ab",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\063 สิ่งสำคัญ - เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "064 เดินมาส่ง (Cover) - First Anuwat",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/064%20%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%87%20%28Cover%29%20-%20First%20Anuwat.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "330e9091c5d7c6722866ef12a47c4e2c",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\064 เดินมาส่ง (Cover) - First Anuwat.mp3"
+    },
+    {
+        "title": "066 จะรักหรือจะร้าย - KLEAR",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/066%20%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%20-%20KLEAR.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "8217cce1461b666bc2b89530bf329d8b",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\066 จะรักหรือจะร้าย - KLEAR.mp3"
+    },
+    {
+        "title": "067 ได้ยินไหม - ดา เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/067%20%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A1%20-%20%E0%B8%94%E0%B8%B2%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "5dfeff7596da8a6bb65c20e9f3e75c8d",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\067 ได้ยินไหม - ดา เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "068 ซอยข่อยแน - Yonia",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/068%20%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%99%20-%20Yonia.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "60efc1669cf6e4ec089a649faf47c6e9",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\068 ซอยข่อยแน - Yonia.mp3"
+    },
+    {
+        "title": "069 อย่าทำให้ฟ้าผิดหวัง - เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/069%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%20-%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "e78c69d339a3337fa951cecef720c00d",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\069 อย่าทำให้ฟ้าผิดหวัง - เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "070 ขอให้เหมือนเดิม - In Budokan",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/070%20%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%20-%20In%20Budokan.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "a9c952995f0cb6beb0f2bf1e7168028c",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\070 ขอให้เหมือนเดิม - In Budokan.mp3"
+    },
+    {
+        "title": "073 สองรัก - ZEAL",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/073%20%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%20-%20ZEAL.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "d22e9f72efff61a8c8f1f330c6b0e417",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\073 สองรัก - ZEAL.mp3"
+    },
+    {
+        "title": "074 คนหลงทาง - Big Ass",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/074%20%E0%B8%84%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%87%20-%20Big%20Ass.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "be98146df4d8644c5ce0e5f982ab247d",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\074 คนหลงทาง - Big Ass.mp3"
+    },
+    {
+        "title": "075 It Had To Be You (Ost.ด้วงกับเธอ Duang With You Series) - COPPER OF BUS",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/075%20It%20Had%20To%20Be%20You%20%28Ost.%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD%20Duang%20With%20You%20Series%29%20-%20COPPER%20OF%20BUS.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "5b03a316791a844ce3a2d349310c9ea4",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\075 It Had To Be You (Ost.ด้วงกับเธอ Duang With You Series) - COPPER OF BUS.mp3"
+    },
+    {
+        "title": "076 ลมเปลี่ยนทิศ - Big Ass",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/076%20%E0%B8%A5%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A8%20-%20Big%20Ass.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c5117af243a72b67f90d59ff7f841012",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\076 ลมเปลี่ยนทิศ - Big Ass.mp3"
+    },
+    {
+        "title": "077 ส่วนเกิน - พีซเมคเกอร์",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/077%20%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%20-%20%E0%B8%9E%E0%B8%B5%E0%B8%8B%E0%B9%80%E0%B8%A1%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "f049bce6e8f3d00193d9f0eb2f2743d2",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\077 ส่วนเกิน - พีซเมคเกอร์.mp3"
+    },
+    {
+        "title": "078 ที่ผ่านมาขอบใจจริงๆ - Little John",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/078%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%88%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%86%20-%20Little%20John.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b4172d8e2a5a5d4da97504f415352a12",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\078 ที่ผ่านมาขอบใจจริงๆ - Little John.mp3"
+    },
+    {
+        "title": "079 อย่าอยู่คนเดียว - ZEAL",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/079%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%20-%20ZEAL.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "3671d287375373d0cb1e3b0adb81c8cd",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\079 อย่าอยู่คนเดียว - ZEAL.mp3"
+    },
+    {
+        "title": "080 ใจสั่งมา - Loso",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/080%20%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B2%20-%20Loso.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "0eaac697cc83fe32a8952f2cc223ae22",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\080 ใจสั่งมา - Loso.mp3"
+    },
+    {
+        "title": "081 ไม่ใช่ไม่รัก - PORZAX",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/081%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%20-%20PORZAX.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "d62fa88e1b370be6d152291c08e89d8d",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\081 ไม่ใช่ไม่รัก - PORZAX.mp3"
+    },
+    {
+        "title": "082 กอดเสาเถียง (From Story จักรวาลไทบ้าน) - ปรีชา ปัดภัย",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/082%20%E0%B8%81%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B9%80%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%87%20%28From%20Story%20%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%29%20-%20%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%20%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "b5278c533c69b71331a031f066fb0102",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\082 กอดเสาเถียง (From Story จักรวาลไทบ้าน) - ปรีชา ปัดภัย.mp3"
+    },
+    {
+        "title": "083 ที่คั่นหนังสือ (Sometimes) - BOWKYLION, NONT TANONT",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/083%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%20%28Sometimes%29%20-%20BOWKYLION%2C%20NONT%20TANONT.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "4d7f33f511de54a39f0e0644d57dd834",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\083 ที่คั่นหนังสือ (Sometimes) - BOWKYLION, NONT TANONT.mp3"
+    },
+    {
+        "title": "084 อากาศ - ป้าง นครินทร์ กิ่งศักดิ์",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/084%20%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%20-%20%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%87%20%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%20%E0%B8%81%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "cf8b789f2e89b90d64e9710dcd4d14ff",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\084 อากาศ - ป้าง นครินทร์ กิ่งศักดิ์.mp3"
+    },
+    {
+        "title": "085 Move On แบบใด - JOEY PHUWASIT",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/085%20Move%20On%20%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%83%E0%B8%94%20-%20JOEY%20PHUWASIT.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "25d3e89d8135d3cd4324538e4b639342",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\085 Move On แบบใด - JOEY PHUWASIT.mp3"
+    },
+    {
+        "title": "086 หากตอนนี้เธอยังไม่เกิด - Taxi (แท็กซี่)",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/086%20%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%20-%20Taxi%20%28%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%29.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "127e62a2cba999ff406b7e2bfe499db2",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\086 หากตอนนี้เธอยังไม่เกิด - Taxi (แท็กซี่).mp3"
+    },
+    {
+        "title": "087 ที่เดิม - PUN",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/087%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%20-%20PUN.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "295353d3bad3e43f86c816534470fe22",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\087 ที่เดิม - PUN.mp3"
+    },
+    {
+        "title": "088 ถ้าตลอดกาลมีจริงขอให้มันเกิดกับรักครั้งนี้ - marr team, Mintchyy",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/088%20%E0%B8%96%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%A1%E0%B8%B5%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%20-%20marr%20team%2C%20Mintchyy.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "52d087e3157a30d5735fab84b563be38",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\088 ถ้าตลอดกาลมีจริงขอให้มันเกิดกับรักครั้งนี้ - marr team, Mintchyy.mp3"
+    },
+    {
+        "title": "089 WE GO UP - BABYMONSTER",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/089%20WE%20GO%20UP%20-%20BABYMONSTER.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "8c77d05c8ceffdb6917e43b974e7df9e",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\089 WE GO UP - BABYMONSTER.mp3"
+    },
+    {
+        "title": "090 คืนข้ามปี - ดา เอ็นโดรฟิน",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/090%20%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%B5%20-%20%E0%B8%94%E0%B8%B2%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%9F%E0%B8%B4%E0%B8%99.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "db3eb859e6e5b6c9fe46228a8d8203a4",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\090 คืนข้ามปี - ดา เอ็นโดรฟิน.mp3"
+    },
+    {
+        "title": "091 นิดหน่อย - JOEY PHUWASIT",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/091%20%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2%20-%20JOEY%20PHUWASIT.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c386aa0384481f6e5db42096f585e8d1",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\091 นิดหน่อย - JOEY PHUWASIT.mp3"
+    },
+    {
+        "title": "092 น้ำหอม - Cocktail",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/092%20%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1%20-%20Cocktail.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "0ff3fe80199c7a6b552bb0e6f8795fad",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\092 น้ำหอม - Cocktail.mp3"
+    },
+    {
+        "title": "093 คิด (แต่ไม่) ถึง (Same Page_) - Tilly Birds",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/093%20%E0%B8%84%E0%B8%B4%E0%B8%94%20%28%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%29%20%E0%B8%96%E0%B8%B6%E0%B8%87%20%28Same%20Page_%29%20-%20Tilly%20Birds.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "443255ed21b2685f94fd1f22c81ee059",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\093 คิด (แต่ไม่) ถึง (Same Page_) - Tilly Birds.mp3"
+    },
+    {
+        "title": "094 หวังดีเสมอ - Potato",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/094%20%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%AD%20-%20Potato.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c669b14d672b948903e59e45c1fffe62",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\094 หวังดีเสมอ - Potato.mp3"
+    },
+    {
+        "title": "095 ใจเรายังตรงกันอยู่ไหม - กะลา",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/095%20%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%A1%20-%20%E0%B8%81%E0%B8%B0%E0%B8%A5%E0%B8%B2.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "adb92bef8fab1d2bb594e72024ea699f",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\095 ใจเรายังตรงกันอยู่ไหม - กะลา.mp3"
+    },
+    {
+        "title": "096 เมื่อฉันทำให้เธอแล้วทุกอย่าง (The Heartless Live) - Cocktail",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/096%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%20%28The%20Heartless%20Live%29%20-%20Cocktail.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "d664b647b4da16ddf787944dec358b0f",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\096 เมื่อฉันทำให้เธอแล้วทุกอย่าง (The Heartless Live) - Cocktail.mp3"
+    },
+    {
+        "title": "097 ตอบกลับแหน่เด้อ - ดิด คิตตี้, มหากาฟิวส์",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/097%20%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%AD%20-%20%E0%B8%94%E0%B8%B4%E0%B8%94%20%E0%B8%84%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B5%E0%B9%89%2C%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%9F%E0%B8%B4%E0%B8%A7%E0%B8%AA%E0%B9%8C.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "bd82b13be9b21cc4bb6d2d077b9d0df9",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\097 ตอบกลับแหน่เด้อ - ดิด คิตตี้, มหากาฟิวส์.mp3"
+    },
+    {
+        "title": "098 คนจริงใจ Feat. ปู่จ๋าน ลองไมค์, พงศ์ พัทลุง, ลำไย ไหทองคำ - Cocktail",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/098%20%E0%B8%84%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%83%E0%B8%88%20Feat.%20%E0%B8%9B%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B9%8B%E0%B8%B2%E0%B8%99%20%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B8%84%E0%B9%8C%2C%20%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%20%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%A5%E0%B8%B8%E0%B8%87%2C%20%E0%B8%A5%E0%B8%B3%E0%B9%84%E0%B8%A2%20%E0%B9%84%E0%B8%AB%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%20-%20Cocktail.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "7329b2f405bd795b2f63330236276328",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\098 คนจริงใจ Feat. ปู่จ๋าน ลองไมค์, พงศ์ พัทลุง, ลำไย ไหทองคำ - Cocktail.mp3"
+    },
+    {
+        "title": "099 เจียมตัว - Syam (ไซแอม)",
+        "url": "https://rung-sup.github.io/7_music/audio_files/100%20%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%97%E0%B8%A2%20%28%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5%29/099%20%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%20-%20Syam%20%28%E0%B9%84%E0%B8%8B%E0%B9%81%E0%B8%AD%E0%B8%A1%29.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c73dd8c0f0500b6e818e3f44440b8d10",
+        "is_music": true,
+        "path": "audio_files\\100 อันดับเพลงฮิตไทย (ไทย-สากล)\\099 เจียมตัว - Syam (ไซแอม).mp3"
+    },
+    {
         "title": "01-คำเดียวก็รู้-เบิร์ด-ภาพยนต์_คู่กรรม_",
         "url": "https://rung-sup.github.io/7_music/audio_files/grammy%20best%201986-1999/01-%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B9%87%E0%B8%A3%E0%B8%B9%E0%B9%89-%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1_.mp3",
         "category": "7_music",
@@ -1636,6 +2455,375 @@
         "cover_id": "352c067cedf103c773f3ca1e0da2f42c",
         "is_music": true,
         "path": "audio_files\\grammy best 1986-1999\\16-ไกลเท่าเดิม_98-ปอนด์-Best Of Pound.mp3"
+    },
+    {
+        "title": "001 - SWIM - BTS",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/001%20-%20SWIM%20-%20BTS.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "6d8ad3b1bf7577e145d8f777021d4f26",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\001 - SWIM - BTS.mp3"
+    },
+    {
+        "title": "002 - Bad Angel - Anyma, LISA",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/002%20-%20Bad%20Angel%20-%20Anyma%2C%20LISA.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "be2b468d31ab33260d8bcd55b96e2230",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\002 - Bad Angel - Anyma, LISA.mp3"
+    },
+    {
+        "title": "003 - กลัวว่าฉันจะไม่เสียใจ (Fear) - PURPEECH",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/003%20-%20%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%A7%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B9%83%E0%B8%88%20%28Fear%29%20-%20PURPEECH.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c190bfd0784796c5d6e05fe56c1be7f0",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\003 - กลัวว่าฉันจะไม่เสียใจ (Fear) - PURPEECH.mp3"
+    },
+    {
+        "title": "004 - ดาวตก (Wish) - WANYAi, Z9",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/004%20-%20%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%95%E0%B8%81%20%28Wish%29%20-%20WANYAi%2C%20Z9.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "d72d8ff58096ae6424408c9046947395",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\004 - ดาวตก (Wish) - WANYAi, Z9.mp3"
+    },
+    {
+        "title": "005 - Seven (Explicit Ver.) - Jung Kook, Latto",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/005%20-%20Seven%20%28Explicit%20Ver.%29%20-%20Jung%20Kook%2C%20Latto.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "9077f48998f12ffc2fc79d1e5ec5d3e3",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\005 - Seven (Explicit Ver.) - Jung Kook, Latto.mp3"
+    },
+    {
+        "title": "006 - ฝากให้เขารัก - Yes'sir Days",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/006%20-%20%E0%B8%9D%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%20-%20Yes%27sir%20Days.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "4d8c4661d88005d737a6375b75b7a9c4",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\006 - ฝากให้เขารัก - Yes'sir Days.mp3"
+    },
+    {
+        "title": "007 - Rockstar - LISA",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/007%20-%20Rockstar%20-%20LISA.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "2dd2073e42639aed274abd007a405391",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\007 - Rockstar - LISA.mp3"
+    },
+    {
+        "title": "008 - Living Death - PUN",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/008%20-%20Living%20Death%20-%20PUN.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "40e63bb71da45d5f81a6f787b9d3ed8b",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\008 - Living Death - PUN.mp3"
+    },
+    {
+        "title": "009 - Benz ดำ - YOUNGOHM",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/009%20-%20Benz%20%E0%B8%94%E0%B8%B3%20-%20YOUNGOHM.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "d172fa8f1ed73ac1fafbf1b0b89e03a7",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\009 - Benz ดำ - YOUNGOHM.mp3"
+    },
+    {
+        "title": "010 - Sunset In Pattaya - YOUNGOHM",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/010%20-%20Sunset%20In%20Pattaya%20-%20YOUNGOHM.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "bdd34d21bbe2c6dfed7e4705e1f435bd",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\010 - Sunset In Pattaya - YOUNGOHM.mp3"
+    },
+    {
+        "title": "011 - Rain Zone - Maiyarap, Z9",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/011%20-%20Rain%20Zone%20-%20Maiyarap%2C%20Z9.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "10f8b0c3f9f5cf59b47d39d558080c5f",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\011 - Rain Zone - Maiyarap, Z9.mp3"
+    },
+    {
+        "title": "012 - กลัวความเสียใจ - Saran, Pearpilincys",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/012%20-%20%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%A7%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B9%83%E0%B8%88%20-%20Saran%2C%20Pearpilincys.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c3a4e4842c318b3a8d265c5ea37d87ef",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\012 - กลัวความเสียใจ - Saran, Pearpilincys.mp3"
+    },
+    {
+        "title": "014 - จากกันโดยสมบูรณ์ - guncharlie",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/014%20-%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%20-%20guncharlie.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "59d2b43d607fce58e00f4428a2e48f27",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\014 - จากกันโดยสมบูรณ์ - guncharlie.mp3"
+    },
+    {
+        "title": "015 - บทสรุปสุดท้าย - Z9",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/015%20-%20%E0%B8%9A%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%20-%20Z9.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c1b793678ecfaa339ddff1944bf97ffd",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\015 - บทสรุปสุดท้าย - Z9.mp3"
+    },
+    {
+        "title": "016 - ใจฉันตามเธอไป - YOUNGOHM",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/016%20-%20%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%9B%20-%20YOUNGOHM.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "bf4cfc871da1b7cba6bbb63d70e98450",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\016 - ใจฉันตามเธอไป - YOUNGOHM.mp3"
+    },
+    {
+        "title": "017 - ที่เดิม - PUN",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/017%20-%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%20-%20PUN.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c3b6d716fb8e93ae359dcc4a47b40051",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\017 - ที่เดิม - PUN.mp3"
+    },
+    {
+        "title": "018 - 9 นาฬิกา - SPF",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/018%20-%209%20%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%20-%20SPF.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "228534768d65ffcb0a87062eb994562d",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\018 - 9 นาฬิกา - SPF.mp3"
+    },
+    {
+        "title": "019 - ที่คั่นหนังสือ (Sometimes) - BOWKYLION, NONT TANONT",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/019%20-%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%20%28Sometimes%29%20-%20BOWKYLION%2C%20NONT%20TANONT.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "e7b5e0bcbfe2411f8b0da43287dc5071",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\019 - ที่คั่นหนังสือ (Sometimes) - BOWKYLION, NONT TANONT.mp3"
+    },
+    {
+        "title": "020 - นครดารา - YOUNGOHM",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/020%20-%20%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%20-%20YOUNGOHM.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "f3fd525dd98e3f1c0203d1f13270eaf6",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\020 - นครดารา - YOUNGOHM.mp3"
+    },
+    {
+        "title": "021 - ไม่บอกเธอ - Bedroom Audio",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/021%20-%20%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%20-%20Bedroom%20Audio.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "38cda7978b68537c102e6f76853b7e2d",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\021 - ไม่บอกเธอ - Bedroom Audio.mp3"
+    },
+    {
+        "title": "022 - One Of My Life - BlackHeart, K6Y",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/022%20-%20One%20Of%20My%20Life%20-%20BlackHeart%2C%20K6Y.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "9c5342157895cc98b7b43d2362830916",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\022 - One Of My Life - BlackHeart, K6Y.mp3"
+    },
+    {
+        "title": "023 - อยากจะกอดเธอนาน ๆ (HAVE A GOOD TIME) - BLVCKHEART",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/023%20-%20%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%99%20%E0%B9%86%20%28HAVE%20A%20GOOD%20TIME%29%20-%20BLVCKHEART.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "0512034952888990bc833db107c0e133",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\023 - อยากจะกอดเธอนาน ๆ (HAVE A GOOD TIME) - BLVCKHEART.mp3"
+    },
+    {
+        "title": "024 - เจิดจรัส - YOUNGOHM",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/024%20-%20%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%AA%20-%20YOUNGOHM.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "eeb62fc4bd9e3b2d59bf9644a676c29a",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\024 - เจิดจรัส - YOUNGOHM.mp3"
+    },
+    {
+        "title": "025 - อ๊ะป่าว_ - The 38 Years Ago",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/025%20-%20%E0%B8%AD%E0%B9%8A%E0%B8%B0%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A7_%20-%20The%2038%20Years%20Ago.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "086793d29f591c7c6b49c62e457a32e9",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\025 - อ๊ะป่าว_ - The 38 Years Ago.mp3"
+    },
+    {
+        "title": "026 - BU - SURIYA MQT, P6ICK",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/026%20-%20BU%20-%20SURIYA%20MQT%2C%20P6ICK.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "c02d22b7f5e9047941a23f9c0f16f851",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\026 - BU - SURIYA MQT, P6ICK.mp3"
+    },
+    {
+        "title": "028 - ความทรงจำ - Musketeers",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/028%20-%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%20-%20Musketeers.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "5e6a5f452188ba8feb3861060c8b986f",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\028 - ความทรงจำ - Musketeers.mp3"
+    },
+    {
+        "title": "029 - อาจเป็นเพราะฉันเอง (me.) - PURPEECH",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/029%20-%20%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87%20%28me.%29%20-%20PURPEECH.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "acdb98e57f35de01edfdc2d17ca52c12",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\029 - อาจเป็นเพราะฉันเอง (me.) - PURPEECH.mp3"
+    },
+    {
+        "title": "030 - เพลงรัก - Three Man Down",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/030%20-%20%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%20-%20Three%20Man%20Down.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "3df230ba521d942325e980b21fbe07d0",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\030 - เพลงรัก - Three Man Down.mp3"
+    },
+    {
+        "title": "031 - สลักจิต - Pop Pongkool, Da Endorphine",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/031%20-%20%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B4%E0%B8%95%20-%20Pop%20Pongkool%2C%20Da%20Endorphine.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "a3dc0b1cd097942805d1990accbaeaf4",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\031 - สลักจิต - Pop Pongkool, Da Endorphine.mp3"
+    },
+    {
+        "title": "032 - ไฟเย็น - YOUNGOHM",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/032%20-%20%E0%B9%84%E0%B8%9F%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%20-%20YOUNGOHM.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "fd3cb7a1651d802037dccb87e3254eac",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\032 - ไฟเย็น - YOUNGOHM.mp3"
+    },
+    {
+        "title": "033 - รสชาติชีวิต - LITTLE JOHN",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/033%20-%20%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%20-%20LITTLE%20JOHN.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "9664772b5126015be51ffed7d9c0be03",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\033 - รสชาติชีวิต - LITTLE JOHN.mp3"
+    },
+    {
+        "title": "034 - เล่นของสูง - Big Ass",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/034%20-%20%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87%20-%20Big%20Ass.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "ab8b5b25070c5208e0c79fef81907ca7",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\034 - เล่นของสูง - Big Ass.mp3"
+    },
+    {
+        "title": "035 - Yours Ever - Cocktail, Q Flure",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/035%20-%20Yours%20Ever%20-%20Cocktail%2C%20Q%20Flure.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "8865ec439441e1d571d7d42e27a50701",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\035 - Yours Ever - Cocktail, Q Flure.mp3"
+    },
+    {
+        "title": "036 - 1 OF 1 - P6ICK, SURIYA MQT",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/036%20-%201%20OF%201%20-%20P6ICK%2C%20SURIYA%20MQT.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "27c29fb6114d2250a9217eee13b7583b",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\036 - 1 OF 1 - P6ICK, SURIYA MQT.mp3"
+    },
+    {
+        "title": "037 - I Just Wanna Know - PUN",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/037%20-%20I%20Just%20Wanna%20Know%20-%20PUN.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "ae3fe72c4b478ce0a3adafeea697cf03",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\037 - I Just Wanna Know - PUN.mp3"
+    },
+    {
+        "title": "038 - PLEASE - atom chanakan",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/038%20-%20PLEASE%20-%20atom%20chanakan.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "e3feb08cae4c5c11ae352047b30ed37e",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\038 - PLEASE - atom chanakan.mp3"
+    },
+    {
+        "title": "039 - รออยู่อย่างนั้น - Saran, Z9, SIMON",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/039%20-%20%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99%20-%20Saran%2C%20Z9%2C%20SIMON.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "2f825c10bbb105c6cc65ca86eb9f0601",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\039 - รออยู่อย่างนั้น - Saran, Z9, SIMON.mp3"
+    },
+    {
+        "title": "040 - ซาโยนาระ - Mild",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/040%20-%20%E0%B8%8B%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B0%20-%20Mild.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "50ef8070c179aefa8736f9cef75d2e8b",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\040 - ซาโยนาระ - Mild.mp3"
+    },
+    {
+        "title": "041 - ครั้งหนึ่ง - SEA., Z9",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/041%20-%20%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%20-%20SEA.%2C%20Z9.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "e25378cc4a96ec2daa5fb78303c2fa55",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\041 - ครั้งหนึ่ง - SEA., Z9.mp3"
+    },
+    {
+        "title": "042 - ขี้หึง - Silly Fools",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/042%20-%20%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B8%AB%E0%B8%B6%E0%B8%87%20-%20Silly%20Fools.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "65041f05348c9bc629eaa722120d0033",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\042 - ขี้หึง - Silly Fools.mp3"
+    },
+    {
+        "title": "043 - สองรัก - Zeal",
+        "url": "https://rung-sup.github.io/7_music/audio_files/Top%20Songs%20200%20Thailand%20%5BSpotify%20Chart%5D%2010-16%20Apr%202026/043%20-%20%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%20-%20Zeal.mp3",
+        "category": "7_music",
+        "folder": "audio_files",
+        "cover_id": "2a3476456d8f49c236910899375c3e04",
+        "is_music": true,
+        "path": "audio_files\\Top Songs 200 Thailand [Spotify Chart] 10-16 Apr 2026\\043 - สองรัก - Zeal.mp3"
     },
     {
         "title": "01.คาราบาว-ลุงขี้เมา",
